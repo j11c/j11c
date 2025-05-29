@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Cybernetic Electronics Engineering Student. I enjoy working on projects that combine hardware and software. Future updates soon.
+
+---
+
+*Currently studying at CETYS Universidad*
